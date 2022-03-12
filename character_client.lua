@@ -1,3 +1,5 @@
+-- LOCATION: game.StarterPlayer.StarterPlayerScripts
+
 local RS = game:GetService("ReplicatedStorage");
 local PS = game:GetService("Players");
 local P = PS.LocalPlayer;
