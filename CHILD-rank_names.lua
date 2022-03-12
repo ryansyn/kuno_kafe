@@ -1,3 +1,5 @@
+-- LOCATION: game.ServerScriptService.character_server
+
 local module = {
 	[0] = {
 		["Name"] = "Guest",
