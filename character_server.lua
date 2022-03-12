@@ -1,3 +1,5 @@
+-- LOCATION: game.ServerScriptService
+
 local RS = game:GetService("ReplicatedStorage");
 local SS = game:GetService("ServerStorage");
 local MS = game:GetService("MarketplaceService");
